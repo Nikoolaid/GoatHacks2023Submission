@@ -1,0 +1,48 @@
+#due{
+    float:right;
+}
+div {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+span {
+    visibility: visible;   
+    /* float: right; */
+    color: #d674a5;
+}
+.THEholder:hover span {
+    /* visibility: visible; */
+    color:white
+}
+.THEholder:hover {
+    background-color: #d674a5;
+    color: white;
+}
+body{
+    background-image: linear-gradient(white,rgb(255, 203, 225));
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+
+    font-family: 'Nunito', sans-serif;
+                                                
+    color:purple;
+    padding-bottom: 5%;
+}
+.THEholder {
+    width: 95%;
+    clear:both;
+    overflow: hidden;
+    /* padding-left: 5%; */
+    padding-right: 5%;
+}
+.leeft {
+    float:left;
+}
+.dueTime{
+    float: right;
+}
+br {
+    line-height: 0px;
+}
+h1,h2,h3{
+    /* font-family: 'Bogart', sans-serif; */
+}
